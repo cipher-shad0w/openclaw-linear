@@ -1,6 +1,4 @@
 ---
-slug: linear
-displayName: Linear
 name: linear
 description: Manage Linear issues, projects, teams, and documents from the command line using the linear CLI. Create, update, list, and track issues; manage projects and milestones; interact with the Linear GraphQL API.
 homepage: https://github.com/cipher-shad0w/openclaw-linear
