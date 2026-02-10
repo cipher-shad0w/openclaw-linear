@@ -1,11 +1,13 @@
 ---
+slug: linear
+displayName: Linear
 name: linear
 description: Manage Linear issues, projects, teams, and documents from the command line using the linear CLI. Create, update, list, and track issues; manage projects and milestones; interact with the Linear GraphQL API.
 homepage: https://github.com/cipher-shad0w/openclaw-linear
 metadata: {"openclaw": {"emoji": "🖇️", "os": ["darwin", "linux", "win32"], "requires": {"bins": ["linear"]}, "install": [{"id": "brew", "kind": "brew", "formula": "schpet/tap/linear", "bins": ["linear"], "label": "Install linear CLI (brew)", "os": ["darwin", "linux"]}]}}
 ---
 
-# Linear CLI
+# Linear
 
 A CLI to manage Linear issues from the command line, with git and jj integration.
 
